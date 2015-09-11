@@ -1,6 +1,6 @@
 {
   "name": "glint-plugin-adapter-id",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Auto id Attribute Adapter Plugin",
   "main": "index.js",
   "browser": "index.js",

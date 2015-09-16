@@ -1,7 +1,7 @@
 /**
  * Module dependencies.
  */
-var debug = require('debug')('glint:plugin-adapter-id');
+var debug = require('debug')('glint-plugin-adapter-id');
 
 /**
  *  Dates Adapter Plugin
